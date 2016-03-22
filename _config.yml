@@ -10,10 +10,9 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 0.1595745
 color:
   saturation: 1
-  brandStrength: 1
+  brandStrength: 0
   lightness: 1
   brandColors:
     - '#28281F'
@@ -22,5 +21,6 @@ color:
     - '#776554'
     - '#772126'
   rhythmicContrast: 1
+typography_spectrum: 0.1595745
 layout_spectrum: 0.9638298
 name: 'Radeeda '
