@@ -1,14 +1,26 @@
-layout_spectrum: 0
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.1595745
 color:
   saturation: 0.9340426
-  lightness: 0.1553192
   brandStrength: 0.3255319
+  rhythmicContrast: 0.6638298
   brandColors:
     - '#28281F'
     - '#A4C5F0'
     - '#D6AC78'
     - '#776554'
     - '#772126'
-  rhythmicContrast: 0.6638298
-typography_spectrum: 0.1595745
+  lightness: 0.1553192
+layout_spectrum: 0.9638298
 name: 'Radeeda '
