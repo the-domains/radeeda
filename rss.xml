@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Radeeda ]]></title>
         <description><![CDATA[Radeeda ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/radeeda/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Mar 2016 12:15:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 22 Mar 2016 12:33:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/radeeda/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Lovely wife and I at Sirikoi lodge with Meru style tent room]]></title>
+            <description><![CDATA[<article><h1>Lovely wife and I at Sirikoi lodge with Meru style tent room</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/48b05754-3134-4e05-aa52-235cbeb5a054.png"></article>]]></description>
+            <link>https://thegrid.ai/radeeda/lovely-wife-and-i-at-sirikoi-lodge-with-meru-style-tent-room/index.html</link>
+            <guid isPermaLink="false">fbd119d8-8ed2-42b8-b9a1-751260263e16</guid>
+            <pubDate>Tue, 22 Mar 2016 12:32:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Missing good old safari days in Kenya]]></title>
             <description><![CDATA[<article><h1>Missing good old safari days in Kenya</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3ae59b23-e7db-44a4-8390-87ff60fb5009.png"></article>]]></description>
-            <link>undefinedmissing-good-old-safari-days-in-kenya/index.html</link>
+            <link>https://thegrid.ai/radeeda/missing-good-old-safari-days-in-kenya/index.html</link>
             <guid isPermaLink="false">99a07fba-024e-42cb-aafd-970dc33b3b8e</guid>
             <pubDate>Tue, 22 Mar 2016 12:14:48 GMT</pubDate>
         </item>
