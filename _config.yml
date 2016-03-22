@@ -1,0 +1,14 @@
+layout_spectrum: 0
+color:
+  saturation: 0.9340426
+  lightness: 0.1553192
+  brandStrength: 0.3255319
+  brandColors:
+    - '#28281F'
+    - '#A4C5F0'
+    - '#D6AC78'
+    - '#776554'
+    - '#772126'
+  rhythmicContrast: 0.6638298
+typography_spectrum: 0.1595745
+name: 'Radeeda '
