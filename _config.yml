@@ -1,41 +1,41 @@
-name: 'Radeeda '
-favicon: null
-layout_spectrum: 0.99872
-typography_spectrum: 0.1595745
-title: 'Love, Passion, Travel'
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+layout_spectrum: 0.99872
+title: 'Love, Passion, Travel'
 cta:
-  domain: null
   bucket: null
   version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+  domain: null
 color:
+  saturation: 0
+  brandStrength: 0.0625
+  rhythmicContrast: 1
   brandColors:
     - '#28281F'
     - '#A4C5F0'
     - '#D6AC78'
     - '#776554'
     - '#772126'
-  brandStrength: 0.0625
   lightness: 0.9375
-  saturation: 0
-  rhythmicContrast: 1
 purpose: []
+favicon: null
+name: 'Radeeda '
+typography_spectrum: 0.1595745
