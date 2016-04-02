@@ -1,11 +1,7 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+name: 'Radeeda '
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.3977
 collections:
   - index:
       path: /
@@ -18,24 +14,28 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-layout_spectrum: 0.99872
 title: 'Love, Passion, Travel'
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0
-  brandStrength: 0.0625
-  rhythmicContrast: 1
   brandColors:
     - '#28281F'
     - '#A4C5F0'
     - '#D6AC78'
     - '#776554'
     - '#772126'
-  lightness: 0.9375
+  brandStrength: 0.3125
+  lightness: 0.5
+  saturation: 0.125
+  rhythmicContrast: 0.25
 purpose: []
-favicon: null
-name: 'Radeeda '
-typography_spectrum: 0.1595745
