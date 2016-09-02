@@ -13,24 +13,24 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0.8595745
-  brandStrength: 0.8595745
-  lightness: 0.5
+  saturation: 0.2340426
+  brandStrength: 0.07234043
+  lightness: 1
   brandColors:
     - '#FFFFFF'
     - '#393939'
     - '#C6C6C5'
     - '#080302'
     - '#866619'
-  rhythmicContrast: 0.25
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+  rhythmicContrast: 0.1255319
 cta:
   bucket: null
   version: null
   domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 favicon: null
 name: 'Radeeda '
 opengraph:
