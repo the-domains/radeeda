@@ -1,20 +1,28 @@
-title: 'Love, Passion, Travel'
+name: 'Radeeda '
+analytics: {}
 purpose: []
+github: true
+description: just as above
+cta:
+  bucket: null
+  version: null
+  domain: null
+author: {}
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
+content: []
+layout_spectrum: 0.09787234
 color:
-  saturation: 1
-  brandStrength: 0
   lightness: 0
   brandColors:
     - '#FFFFFF'
@@ -22,20 +30,11 @@ color:
     - '#C6C6C5'
     - '#080302'
     - '#866619'
+  saturation: 1
+  brandStrength: 0
   rhythmicContrast: 0
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: 'Radeeda '
-opengraph:
-  image: null
-  type: null
-  appId: null
+content_rating:
+  adult: false
 typography_spectrum: 0
-layout_spectrum: 0.09787234
+opengraph: {}
+title: 'Love, Passion, Travel'
